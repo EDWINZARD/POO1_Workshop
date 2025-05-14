@@ -350,7 +350,7 @@ public class WorkshopTest {
                 tester.jugarPiedraPapelTijeraLagartoSpock("Papel").equals("Perdiste") ||
                 tester.jugarPiedraPapelTijeraLagartoSpock("Papel").equals("Empate"));
            }
-
+//raro?
 
     @Test
     public void testValidarCorreoElectronico() {
